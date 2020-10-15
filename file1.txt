@@ -1,0 +1,11 @@
+comandi git:
+
+git init
+... lavorare ...
+git add .
+git commit -m "Commento"
+git branch -M main
+git remote add origin https://github...
+git push -u origin main
+
+
